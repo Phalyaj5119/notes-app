@@ -1,32 +1,3 @@
-/* src/App.css */
-.app {
-  text-align: center;
-  margin-top: 50px;
-}
-
-.notes {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-}
-
-.note {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
-  margin: 0 10px;
-}
-
-button {
-  margin-top: 20px;
-  padding: 8px 16px;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7128dbed64dae092f8c64535dc52a50e0f8c30445d59689d06c6472a471c0c77
+size 441
